@@ -1,0 +1,74 @@
+button{
+    background-color: black;
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    color:white;
+    position: relative;
+    margin-top: 5%;
+    margin-right: 50%;
+    float:left
+}
+  
+#textoblue{
+    color: blue;
+    margin-left: 100px;
+}
+
+#textoy{
+    color: yellow;
+    margin-left: 200px;
+}
+
+#textog{
+    color: green;
+    margin-left: 300px;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    background-color: violet;
+    position: relative;
+    float: left;
+}
+
+.boton2{
+    float: left;
+    position: relative;
+    margin-top: 250px;
+    
+}
+
+
+
+
+
+#child-1, #child-2, #child-3, #child-4, #child-5, #child-6{
+    background-color: blue;
+    border-radius: 10px;
+    height:80px;
+    width:10%;
+    float:left;
+    margin: 10px;
+}
+
+
+.contenedor-p{
+    width: 100%;
+    height: 450px;
+}
+
+.op1{
+    width: 300px;
+    height: 300px;
+    
+    float: left;
+}
+.op2{
+    width: 300px;
+    height: 300px;
+    
+    float: right;
+}
+
